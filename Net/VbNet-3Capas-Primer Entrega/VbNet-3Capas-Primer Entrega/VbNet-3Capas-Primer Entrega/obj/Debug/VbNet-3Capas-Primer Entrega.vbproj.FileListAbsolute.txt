@@ -1,3 +1,0 @@
-d:\users\luis escobar\documents\visual studio 2012\Projects\VbNet-3Capas-Primer Entrega\VbNet-3Capas-Primer Entrega\bin\Debug\VbNet-3Capas-Primer Entrega.exe.config
-D:\UDI\10mo\Proyecto de Grado II\Prog. 3 Capas\VbNet-3Capas-Primer Entrega\VbNet-3Capas-Primer Entrega\VbNet-3Capas-Primer Entrega\bin\Debug\VbNet-3Capas-Primer Entrega.exe.config
-C:\Users\arley\Dropbox\Repositorio Apps\Apps\Net\VbNet-3Capas-Primer Entrega\VbNet-3Capas-Primer Entrega\VbNet-3Capas-Primer Entrega\bin\Debug\VbNet-3Capas-Primer Entrega.exe.config

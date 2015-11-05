@@ -1,8 +1,0 @@
-d:\users\luis escobar\documents\visual studio 2012\Projects\VbNet-3Capas-Primer Entrega\Tienda-Entidades\bin\Debug\Tienda-Entidades.dll
-d:\users\luis escobar\documents\visual studio 2012\Projects\VbNet-3Capas-Primer Entrega\Tienda-Entidades\bin\Debug\Tienda-Entidades.pdb
-d:\users\luis escobar\documents\visual studio 2012\Projects\VbNet-3Capas-Primer Entrega\Tienda-Entidades\bin\Debug\Tienda-Entidades.xml
-d:\users\luis escobar\documents\visual studio 2012\Projects\VbNet-3Capas-Primer Entrega\Tienda-Entidades\obj\Debug\Tienda_Entidades.Resources.resources
-d:\users\luis escobar\documents\visual studio 2012\Projects\VbNet-3Capas-Primer Entrega\Tienda-Entidades\obj\Debug\Tienda-Entidades.vbproj.GenerateResource.Cache
-d:\users\luis escobar\documents\visual studio 2012\Projects\VbNet-3Capas-Primer Entrega\Tienda-Entidades\obj\Debug\Tienda-Entidades.dll
-d:\users\luis escobar\documents\visual studio 2012\Projects\VbNet-3Capas-Primer Entrega\Tienda-Entidades\obj\Debug\Tienda-Entidades.xml
-d:\users\luis escobar\documents\visual studio 2012\Projects\VbNet-3Capas-Primer Entrega\Tienda-Entidades\obj\Debug\Tienda-Entidades.pdb
