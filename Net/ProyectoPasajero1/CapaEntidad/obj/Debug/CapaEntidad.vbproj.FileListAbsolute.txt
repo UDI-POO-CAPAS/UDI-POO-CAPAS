@@ -1,0 +1,8 @@
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\ProyectoPasajero1\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\ProyectoPasajero1\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\ProyectoPasajero1\CapaEntidad\bin\Debug\CapaEntidad.xml
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\ProyectoPasajero1\CapaEntidad\obj\Debug\CapaEntidad.Resources.resources
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\ProyectoPasajero1\CapaEntidad\obj\Debug\CapaEntidad.vbproj.GenerateResource.Cache
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\ProyectoPasajero1\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\ProyectoPasajero1\CapaEntidad\obj\Debug\CapaEntidad.xml
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\ProyectoPasajero1\CapaEntidad\obj\Debug\CapaEntidad.pdb

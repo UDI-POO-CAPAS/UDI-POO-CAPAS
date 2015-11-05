@@ -1,0 +1,24 @@
+d:\users\luis escobar\documents\visual studio 2012\Projects\VbNet-3Capas-Primer Entrega\Tienda-Presentacion\obj\Debug\Tienda-Presentacion.vbprojResolveAssemblyReference.cache
+d:\users\luis escobar\documents\visual studio 2012\Projects\VbNet-3Capas-Primer Entrega\Tienda-Presentacion\obj\Debug\Tienda_Presentacion.Form1.resources
+d:\users\luis escobar\documents\visual studio 2012\Projects\VbNet-3Capas-Primer Entrega\Tienda-Presentacion\obj\Debug\Tienda_Presentacion.Resources.resources
+d:\users\luis escobar\documents\visual studio 2012\Projects\VbNet-3Capas-Primer Entrega\Tienda-Presentacion\obj\Debug\Tienda-Presentacion.vbproj.GenerateResource.Cache
+d:\users\luis escobar\documents\visual studio 2012\Projects\VbNet-3Capas-Primer Entrega\Tienda-Presentacion\bin\Debug\Tienda-Presentacion.exe.config
+d:\users\luis escobar\documents\visual studio 2012\Projects\VbNet-3Capas-Primer Entrega\Tienda-Presentacion\bin\Debug\Tienda-Presentacion.exe
+d:\users\luis escobar\documents\visual studio 2012\Projects\VbNet-3Capas-Primer Entrega\Tienda-Presentacion\bin\Debug\Tienda-Presentacion.pdb
+d:\users\luis escobar\documents\visual studio 2012\Projects\VbNet-3Capas-Primer Entrega\Tienda-Presentacion\bin\Debug\Tienda-Presentacion.xml
+d:\users\luis escobar\documents\visual studio 2012\Projects\VbNet-3Capas-Primer Entrega\Tienda-Presentacion\bin\Debug\Tienda-Entidades.dll
+d:\users\luis escobar\documents\visual studio 2012\Projects\VbNet-3Capas-Primer Entrega\Tienda-Presentacion\bin\Debug\Tienda-LogicaNegocio.dll
+d:\users\luis escobar\documents\visual studio 2012\Projects\VbNet-3Capas-Primer Entrega\Tienda-Presentacion\bin\Debug\Tienda-AccesoDatos.dll
+d:\users\luis escobar\documents\visual studio 2012\Projects\VbNet-3Capas-Primer Entrega\Tienda-Presentacion\bin\Debug\Tienda-Entidades.pdb
+d:\users\luis escobar\documents\visual studio 2012\Projects\VbNet-3Capas-Primer Entrega\Tienda-Presentacion\bin\Debug\Tienda-Entidades.xml
+d:\users\luis escobar\documents\visual studio 2012\Projects\VbNet-3Capas-Primer Entrega\Tienda-Presentacion\bin\Debug\Tienda-LogicaNegocio.pdb
+d:\users\luis escobar\documents\visual studio 2012\Projects\VbNet-3Capas-Primer Entrega\Tienda-Presentacion\bin\Debug\Tienda-LogicaNegocio.xml
+d:\users\luis escobar\documents\visual studio 2012\Projects\VbNet-3Capas-Primer Entrega\Tienda-Presentacion\bin\Debug\Tienda-AccesoDatos.pdb
+d:\users\luis escobar\documents\visual studio 2012\Projects\VbNet-3Capas-Primer Entrega\Tienda-Presentacion\bin\Debug\Tienda-AccesoDatos.xml
+d:\users\luis escobar\documents\visual studio 2012\Projects\VbNet-3Capas-Primer Entrega\Tienda-Presentacion\obj\Debug\Tienda-Presentacion.exe
+d:\users\luis escobar\documents\visual studio 2012\Projects\VbNet-3Capas-Primer Entrega\Tienda-Presentacion\obj\Debug\Tienda-Presentacion.xml
+d:\users\luis escobar\documents\visual studio 2012\Projects\VbNet-3Capas-Primer Entrega\Tienda-Presentacion\obj\Debug\Tienda-Presentacion.pdb
+D:\UDI\10mo\Proyecto de Grado II\Prog. 3 Capas\VbNet-3Capas-Primer Entrega\VbNet-3Capas-Primer Entrega\Tienda-Presentacion\bin\Debug\Tienda-Presentacion.exe.config
+D:\UDI\10mo\Proyecto de Grado II\Prog. 3 Capas\VbNet-3Capas-Primer Entrega\VbNet-3Capas-Primer Entrega\Tienda-Presentacion\obj\Debug\Tienda-Presentacion.exe
+D:\UDI\10mo\Proyecto de Grado II\Prog. 3 Capas\VbNet-3Capas-Primer Entrega\VbNet-3Capas-Primer Entrega\Tienda-Presentacion\obj\Debug\Tienda-Presentacion.xml
+D:\UDI\10mo\Proyecto de Grado II\Prog. 3 Capas\VbNet-3Capas-Primer Entrega\VbNet-3Capas-Primer Entrega\Tienda-Presentacion\obj\Debug\Tienda-Presentacion.pdb

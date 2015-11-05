@@ -1,0 +1,14 @@
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\Vectores\Vectores\Vectores\bin\Debug\Vectores.exe.config
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\Vectores\Vectores\Vectores\bin\Debug\Vectores.exe
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\Vectores\Vectores\Vectores\bin\Debug\Vectores.pdb
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\Vectores\Vectores\Vectores\bin\Debug\Vectores.xml
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\Vectores\Vectores\Vectores\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\Vectores\Vectores\Vectores\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\Vectores\Vectores\Vectores\obj\Debug\Vectores.vbproj.GenerateResource.Cache
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\Vectores\Vectores\Vectores\obj\Debug\Vectores.exe
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\Vectores\Vectores\Vectores\obj\Debug\Vectores.xml
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\Vectores\Vectores\Vectores\obj\Debug\Vectores.pdb
+C:\Users\arley\Desktop\Proyecto 2 juan carlos\Farley\proyecto\Vectores\Vectores\Vectores\bin\Debug\Vectores.exe.config
+C:\Users\arley\Desktop\Proyecto 2 juan carlos\Farley\proyecto\Vectores\Vectores\Vectores\obj\Debug\Vectores.exe
+C:\Users\arley\Desktop\Proyecto 2 juan carlos\Farley\proyecto\Vectores\Vectores\Vectores\obj\Debug\Vectores.xml
+C:\Users\arley\Desktop\Proyecto 2 juan carlos\Farley\proyecto\Vectores\Vectores\Vectores\obj\Debug\Vectores.pdb

@@ -1,0 +1,19 @@
+C:\Users\FAD\AppData\Local\Temporary Projects\Herencia\bin\Debug\Herencia.exe.config
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\Herencia\Herencia\bin\Debug\Herencia.exe.config
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\Herencia\Herencia\bin\Debug\Herencia.exe
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\Herencia\Herencia\bin\Debug\Herencia.pdb
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\Herencia\Herencia\bin\Debug\Herencia.xml
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\Herencia\Herencia\bin\Debug\ClaseBase.dll
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\Herencia\Herencia\bin\Debug\ClaseBase.pdb
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\Herencia\Herencia\bin\Debug\ClaseBase.xml
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\Herencia\Herencia\obj\Debug\Herencia.vbprojResolveAssemblyReference.cache
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\Herencia\Herencia\obj\Debug\Herencia.Form1.resources
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\Herencia\Herencia\obj\Debug\Herencia.Resources.resources
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\Herencia\Herencia\obj\Debug\Herencia.vbproj.GenerateResource.Cache
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\Herencia\Herencia\obj\Debug\Herencia.exe
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\Herencia\Herencia\obj\Debug\Herencia.xml
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\Herencia\Herencia\obj\Debug\Herencia.pdb
+C:\Users\arley\Desktop\Proyecto 2 juan carlos\Farley\Herencia y Polimorfismo\Herencia\Herencia\Herencia\bin\Debug\Herencia.exe.config
+C:\Users\arley\Desktop\Proyecto 2 juan carlos\Farley\Herencia y Polimorfismo\Herencia\Herencia\Herencia\obj\Debug\Herencia.exe
+C:\Users\arley\Desktop\Proyecto 2 juan carlos\Farley\Herencia y Polimorfismo\Herencia\Herencia\Herencia\obj\Debug\Herencia.xml
+C:\Users\arley\Desktop\Proyecto 2 juan carlos\Farley\Herencia y Polimorfismo\Herencia\Herencia\Herencia\obj\Debug\Herencia.pdb

@@ -1,0 +1,4 @@
+D:\UDI\10mo\Proyecto de Grado II\Prog. 3 Capas\EjemploTresCapas\EjemploTresCapas.Entidades\bin\Debug\EjemploTresCapas.Entidad.dll
+D:\UDI\10mo\Proyecto de Grado II\Prog. 3 Capas\EjemploTresCapas\EjemploTresCapas.Entidades\bin\Debug\EjemploTresCapas.Entidad.pdb
+D:\UDI\10mo\Proyecto de Grado II\Prog. 3 Capas\EjemploTresCapas\EjemploTresCapas.Entidades\obj\Debug\EjemploTresCapas.Entidad.dll
+D:\UDI\10mo\Proyecto de Grado II\Prog. 3 Capas\EjemploTresCapas\EjemploTresCapas.Entidades\obj\Debug\EjemploTresCapas.Entidad.pdb

@@ -1,0 +1,8 @@
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\Herencia\ClaseBase\bin\Debug\ClaseBase.dll
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\Herencia\ClaseBase\bin\Debug\ClaseBase.pdb
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\Herencia\ClaseBase\bin\Debug\ClaseBase.xml
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\Herencia\ClaseBase\obj\Debug\ClaseBase.Resources.resources
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\Herencia\ClaseBase\obj\Debug\ClaseBase.vbproj.GenerateResource.Cache
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\Herencia\ClaseBase\obj\Debug\ClaseBase.dll
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\Herencia\ClaseBase\obj\Debug\ClaseBase.xml
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\Herencia\ClaseBase\obj\Debug\ClaseBase.pdb

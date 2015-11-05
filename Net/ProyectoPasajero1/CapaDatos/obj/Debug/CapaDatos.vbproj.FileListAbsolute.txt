@@ -1,0 +1,12 @@
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\ProyectoPasajero1\CapaDatos\obj\Debug\CapaDatos.Resources.resources
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\ProyectoPasajero1\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.Cache
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\ProyectoPasajero1\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\ProyectoPasajero1\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\ProyectoPasajero1\CapaDatos\bin\Debug\CapaDatos.xml
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\ProyectoPasajero1\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\ProyectoPasajero1\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\ProyectoPasajero1\CapaDatos\bin\Debug\CapaEntidad.xml
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\ProyectoPasajero1\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\ProyectoPasajero1\CapaDatos\obj\Debug\CapaDatos.xml
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\ProyectoPasajero1\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\ProyectoPasajero1\CapaDatos\obj\Debug\CapaDatos.vbprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\UDI\10mo\Proyecto de Grado II\Prog. 3 Capas\EjemploTresCapas\EjemploTresCapas.Negocio\bin\Debug\EjemploTresCapas.Negocio.dll
+D:\UDI\10mo\Proyecto de Grado II\Prog. 3 Capas\EjemploTresCapas\EjemploTresCapas.Negocio\bin\Debug\EjemploTresCapas.Negocio.pdb
+D:\UDI\10mo\Proyecto de Grado II\Prog. 3 Capas\EjemploTresCapas\EjemploTresCapas.Negocio\bin\Debug\EjemploTresCapas.Dato.dll
+D:\UDI\10mo\Proyecto de Grado II\Prog. 3 Capas\EjemploTresCapas\EjemploTresCapas.Negocio\bin\Debug\EjemploTresCapas.Entidad.dll
+D:\UDI\10mo\Proyecto de Grado II\Prog. 3 Capas\EjemploTresCapas\EjemploTresCapas.Negocio\bin\Debug\EjemploTresCapas.Dato.pdb
+D:\UDI\10mo\Proyecto de Grado II\Prog. 3 Capas\EjemploTresCapas\EjemploTresCapas.Negocio\bin\Debug\EjemploTresCapas.Entidad.pdb
+D:\UDI\10mo\Proyecto de Grado II\Prog. 3 Capas\EjemploTresCapas\EjemploTresCapas.Negocio\obj\Debug\EjemploTresCapas.Negocio.csprojResolveAssemblyReference.cache
+D:\UDI\10mo\Proyecto de Grado II\Prog. 3 Capas\EjemploTresCapas\EjemploTresCapas.Negocio\obj\Debug\EjemploTresCapas.Negocio.dll
+D:\UDI\10mo\Proyecto de Grado II\Prog. 3 Capas\EjemploTresCapas\EjemploTresCapas.Negocio\obj\Debug\EjemploTresCapas.Negocio.pdb

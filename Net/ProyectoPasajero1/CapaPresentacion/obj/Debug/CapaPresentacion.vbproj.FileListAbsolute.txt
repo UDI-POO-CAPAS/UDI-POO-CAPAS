@@ -1,0 +1,27 @@
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\ProyectoPasajero1\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\ProyectoPasajero1\CapaPresentacion\obj\Debug\CapaPresentacion.frmListadoPasajeros.resources
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\ProyectoPasajero1\CapaPresentacion\obj\Debug\CapaPresentacion.Resources.resources
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\ProyectoPasajero1\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.GenerateResource.Cache
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\ProyectoPasajero1\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\ProyectoPasajero1\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\ProyectoPasajero1\CapaPresentacion\bin\Debug\CapaPresentacion.xml
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\ProyectoPasajero1\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\ProyectoPasajero1\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\ProyectoPasajero1\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\ProyectoPasajero1\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\ProyectoPasajero1\CapaPresentacion\bin\Debug\CapaEntidad.xml
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\ProyectoPasajero1\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\ProyectoPasajero1\CapaPresentacion\bin\Debug\CapaNegocio.xml
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\ProyectoPasajero1\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\ProyectoPasajero1\CapaPresentacion\bin\Debug\CapaDatos.xml
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\ProyectoPasajero1\CapaPresentacion\obj\Debug\CapaPresentacion.vbprojResolveAssemblyReference.cache
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\ProyectoPasajero1\CapaPresentacion\obj\Debug\CapaPresentacion.frmNuevoPasajero.resources
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\ProyectoPasajero1\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\ProyectoPasajero1\CapaPresentacion\obj\Debug\CapaPresentacion.xml
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\ProyectoPasajero1\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\ProyectoPasajero1\CapaPresentacion\obj\Debug\CapaPresentacion.MenuPrincipal.resources
+C:\Users\FAD\Documents\Visual Studio 2012\Projects\ProyectoPasajero1\CapaPresentacion\obj\Debug\CapaPresentacion.frmActualizarPasajero.resources
+C:\Users\arley\Desktop\Proyecto 2 juan carlos\Farley\ProyectoPasajero1\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\arley\Desktop\Proyecto 2 juan carlos\Farley\ProyectoPasajero1\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\arley\Desktop\Proyecto 2 juan carlos\Farley\ProyectoPasajero1\CapaPresentacion\obj\Debug\CapaPresentacion.xml
+C:\Users\arley\Desktop\Proyecto 2 juan carlos\Farley\ProyectoPasajero1\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
